@@ -31,7 +31,7 @@ The application demonstrates DOM manipulation, event handling, and dynamic UI up
 
 ## 📸 Screenshots
 
-![Render Grocery Items](landing_page.png)
+![Render Grocery Items](Landing_Page.png)
 ![Add Record, Form Processing and Rendering](Add_Record_Functionality.png)
 
 
@@ -44,5 +44,6 @@ The application demonstrates DOM manipulation, event handling, and dynamic UI up
 - **JavaScript (ES6)**  
 
 ---
+
 
 
